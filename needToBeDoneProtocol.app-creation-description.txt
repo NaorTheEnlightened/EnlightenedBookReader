@@ -1,0 +1,11 @@
+This app creation description demonstrates the creation proccess of the application 
+which will be used to organize the use of book reading in my computer.
+
+1. Create a node js server using docker
+2. Install npm packages - fs, express. vue, vite
+3. Setup a basic homepage controller
+4. Show books available from file system in a selected path/destination
+5. Create a basic "Book Reading Mode" using an iframe
+
+
+Done. Good Luck. Estimated time of completion: 2 Hours: 12:45 to 14:45.
